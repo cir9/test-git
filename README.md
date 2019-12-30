@@ -1,3 +1,3 @@
 # test-git
 
-## a simple test repository using Git Bash.
+ a simple testing repository using Git Bash.
